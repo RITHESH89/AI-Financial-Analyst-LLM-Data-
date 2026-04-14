@@ -13,7 +13,7 @@ An AI-powered stock analysis tool that fetches real-time market data and generat
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python  
 - Streamlit  
 - yfinance  
