@@ -22,7 +22,3 @@ An AI-powered stock analysis tool that fetches real-time market data and generat
 
 ---
 
-## ⚙️ Installation
-
-```bash
-pip install -r requirements.txt
