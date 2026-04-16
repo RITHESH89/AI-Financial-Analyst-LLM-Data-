@@ -18,5 +18,5 @@ An AI-powered stock analysis tool that fetches real-time market data and generat
 - LangChain  
 - OpenAI API  
 
----
+
 
