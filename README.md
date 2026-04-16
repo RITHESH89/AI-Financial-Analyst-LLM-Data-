@@ -11,7 +11,6 @@ An AI-powered stock analysis tool that fetches real-time market data and generat
 -  Simple and interactive UI  
 -  Fast and lightweight  
 
----
 
 ## Tech Stack
 - Python  
