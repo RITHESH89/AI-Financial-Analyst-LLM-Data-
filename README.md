@@ -1,4 +1,4 @@
-#  AI Financial Analysis data (LLM + Data)
+#  AI Financial Analysis Data (LLM + Data)
 
 An AI-powered stock analysis tool that fetches real-time market data and generates intelligent insights using Large Language Models.
 
