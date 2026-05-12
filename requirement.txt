@@ -1,6 +1,0 @@
-openai
-python
-streamlit
-yfinance
-langchain
-
