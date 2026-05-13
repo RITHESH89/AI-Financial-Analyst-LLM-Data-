@@ -10,12 +10,6 @@ An AI-powered stock analysis tool that fetches real-time market data and generat
 -  Fast and lightweight  
 
 
-## Tech Stack
-- Python  
-- Streamlit  
-- yfinance  
-- LangChain  
-- OpenAI API  
 
 ## Performance
 Response Time: ~1–2 seconds
