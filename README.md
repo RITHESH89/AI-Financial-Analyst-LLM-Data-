@@ -15,11 +15,5 @@ An AI-powered stock analysis tool that fetches real-time market data and generat
 - Streamlit  
 - yfinance  
 - LangChain  
-- OpenAI API  
 
-## Performance
-Response Time: ~1–2 seconds
-Accuracy: High for document-based queries
-Handles multiple text chunks efficiently
-Improves answer relevance using embeddings
 
