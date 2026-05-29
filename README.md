@@ -1,2 +1,2 @@
-#AI-Financial-Analyst-LLM-Data
+#AI-Financial-Analyst-Data
 
