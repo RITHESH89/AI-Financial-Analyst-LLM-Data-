@@ -1,2 +1,2 @@
-#AI-Financial-Analyst-Data
+#AI-Financial-Data
 
