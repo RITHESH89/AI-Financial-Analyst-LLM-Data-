@@ -4,5 +4,4 @@ faiss-cpu
 pypdf
 python-dotenv
 langchain-community
-langchain-google-genai
-sentence-transformers
+langchain-google-gena
