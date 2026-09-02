@@ -2,7 +2,3 @@ streamlit
 langchain
 faiss-cpu
 pypdf
-python-dotenv
-langchain-community
-
-
