@@ -4,4 +4,3 @@ faiss-cpu
 pypdf
 python-dotenv
 langchain-community
-langchain-google-genai
